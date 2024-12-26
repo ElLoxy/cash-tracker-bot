@@ -9,6 +9,7 @@ It automatically logs financial data and transactions into a Google Sheet and ge
 <!-- GETTING STARTED -->
 ## Getting Started
 
+
 ### Configuration
 - Activate Google Sheet API
 - Activate OpenAI API
